@@ -1,4 +1,4 @@
-<h3>Olá seja bem vindo(a) me chamo Josué Amaro, sou webdesign e consultor empresarial!</h3>
+<h3>Olá seja bem vindo(a)! Me chamo Josué Amaro e sou webdesign e consultor empresarial!</h3>
 
 <p>
   <div align="center">
