@@ -18,7 +18,7 @@
  
 <div> 
   <a href="https://instagram.com/ojosueamaro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="[https://www.ordercompany.com.br/josue-amaro](https://www.ordercompany.com.br/order-company-josue-amaro?utm_source=organic&utm_term=perfil-github)" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.ordercompany.com.br/order-company-josue-amaro?utm_source=organic&utm_term=perfil-github" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
   <a href = "mailto:josueamaroadm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/josueamarodossantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
