@@ -1,4 +1,4 @@
-<h3>Olá seja bem vindo(a)! Me chamo Josué Amaro, sou webdesign e consultor empresarial!</h3>
+<h3>Hello, welcome! My name is Josué Amaro, I am a front-end developer and Paid Media Specialist.</h3>
 
 <p>
   <div align="center">
